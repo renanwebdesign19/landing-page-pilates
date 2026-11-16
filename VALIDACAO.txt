@@ -1,0 +1,18 @@
+Validação da cópia organizada
+
+- 38 arquivos recuperados: HTML, CSS, JavaScript e 35 mídias.
+- Todos os caminhos de mídias no HTML, CSS e JavaScript apontam para arquivos locais existentes.
+- Arquivos originais e mídias conferidos com SHA-256 (inventario.json).
+- JavaScript aprovado em node --check.
+- Ícones SVG conferidos como XML válido.
+- Vídeo de fundo: H.264, 1920 × 1080, 26,36 segundos; reprodução validada no navegador.
+- Chromium: página testada em 1440 × 900 e 390 × 844.
+- Todas as 62 instâncias de imagens da página carregaram.
+- Fonte local carregou em ambos os tamanhos de tela.
+- Menu móvel, contagem regressiva, FAQ e diálogos funcionaram.
+- Formulário testado apenas como a demonstração local que existe no original.
+- Depoimentos exibiram as capas e o aviso original de vídeo ausente.
+- Nenhum erro de execução JavaScript ou resposta HTTP de erro nos testes.
+
+Não foi realizada uma exportação interna do editor Sites. Arquivos não publicados
+ou não referenciados pela página não podem ser confirmados por esta recuperação.

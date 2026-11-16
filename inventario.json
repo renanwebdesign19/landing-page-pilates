@@ -1,0 +1,279 @@
+{
+  "origem": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/",
+  "recuperado_em_utc": "2026-11-16T19:25:54.533500+00:00",
+  "escopo": "HTML, CSS, JavaScript e todos os 35 arquivos de mídia referenciados pela versão pública consultada. O servidor não disponibilizou listagem de diretórios; arquivos internos ou não referenciados não podem ser confirmados.",
+  "arquivos": [
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/google-sans-flex-web.ttf",
+      "caminho_original": "assets/google-sans-flex-web.ttf",
+      "arquivo_local": "assets/fontes/google-sans-flex-web.ttf",
+      "bytes": 3022484,
+      "sha256": "d38cc8b742b26c3029aff1576432b5b47a5aa369006865a75436430d55e0f13e"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgDate.svg",
+      "caminho_original": "assets/imgDate.svg",
+      "arquivo_local": "assets/imagens/imgDate.svg",
+      "bytes": 1936,
+      "sha256": "3ef9053d74a9a6a9d764de8f1e69dc442d717bcb3dea710cb3c18b2a7d2407d1"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgDate1.svg",
+      "caminho_original": "assets/imgDate1.svg",
+      "arquivo_local": "assets/imagens/imgDate1.svg",
+      "bytes": 1936,
+      "sha256": "3922891e07f5ecebce5b530c48e9d29a043b02b9b28cce033703dc31c49c6d4d"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgDivisoresBarras.svg",
+      "caminho_original": "assets/imgDivisoresBarras.svg",
+      "arquivo_local": "assets/imagens/imgDivisoresBarras.svg",
+      "bytes": 436,
+      "sha256": "faf8b2249b6d4d979da320618a153e6ae3d03f6f0f503cce5069c0796a77115c"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgEllipse1.png",
+      "caminho_original": "assets/imgEllipse1.png",
+      "arquivo_local": "assets/imagens/imgEllipse1.png",
+      "bytes": 33385,
+      "sha256": "188f19a459be3dd6ea30a35c79be28725bd3d33e34a393c2053f3c1e0ecf7e24"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgEllipse10.png",
+      "caminho_original": "assets/imgEllipse10.png",
+      "arquivo_local": "assets/imagens/imgEllipse10.png",
+      "bytes": 33214,
+      "sha256": "f2bbe4f5c9a78841ad262ff9ba0a6f4c743258f780e2f1eff9f8e2e6ce7b4597"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgEllipse11.png",
+      "caminho_original": "assets/imgEllipse11.png",
+      "arquivo_local": "assets/imagens/imgEllipse11.png",
+      "bytes": 36564,
+      "sha256": "f13407f66065742efa5c199e86a1a2e3cb9970161cc816282fe2b74fc868669d"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgEllipse12.svg",
+      "caminho_original": "assets/imgEllipse12.svg",
+      "arquivo_local": "assets/imagens/imgEllipse12.svg",
+      "bytes": 236,
+      "sha256": "61785f47b3a030bbc1ce11b7d1a889210cd9c083724d11cc01f7bdcc8a5d39e9"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgEllipse13.svg",
+      "caminho_original": "assets/imgEllipse13.svg",
+      "arquivo_local": "assets/imagens/imgEllipse13.svg",
+      "bytes": 236,
+      "sha256": "cdaf617e8692d7da95e9a5015a7fff1ce13bfe9c82404ec5c54a30056d1f7f53"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgEllipse2.png",
+      "caminho_original": "assets/imgEllipse2.png",
+      "arquivo_local": "assets/imagens/imgEllipse2.png",
+      "bytes": 31971,
+      "sha256": "a4d4626330ccd8b1f8df3f31076273e123ae99c7dd9275472c0126feafb14753"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgEllipse3.png",
+      "caminho_original": "assets/imgEllipse3.png",
+      "arquivo_local": "assets/imagens/imgEllipse3.png",
+      "bytes": 33890,
+      "sha256": "c2377371264b14a872baec8bc10def39fc017c1b61b92d0cf13c689a01c0bcc7"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgEllipse4.png",
+      "caminho_original": "assets/imgEllipse4.png",
+      "arquivo_local": "assets/imagens/imgEllipse4.png",
+      "bytes": 32954,
+      "sha256": "7715940bbe5bc833091fa1bed322b7d27ca8a9e0d70cf18cfc6136ba7d4909a6"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgEllipse5.png",
+      "caminho_original": "assets/imgEllipse5.png",
+      "arquivo_local": "assets/imagens/imgEllipse5.png",
+      "bytes": 36538,
+      "sha256": "843c5fde0ac75f13797f4f5fd0f3f5313ad1a5e465fa9040040c40ead98be566"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgEllipse6.png",
+      "caminho_original": "assets/imgEllipse6.png",
+      "arquivo_local": "assets/imagens/imgEllipse6.png",
+      "bytes": 33507,
+      "sha256": "fa0dc4c35117eccf8614e47c5ce679c34d5a25ebdd0cc4507a859f8950b12aa2"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgEllipse7.svg",
+      "caminho_original": "assets/imgEllipse7.svg",
+      "arquivo_local": "assets/imagens/imgEllipse7.svg",
+      "bytes": 236,
+      "sha256": "e9c7435be645aba5c1b770759f9484f624b9f8f12e73245f798927f2092e47b5"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgEllipse8.png",
+      "caminho_original": "assets/imgEllipse8.png",
+      "arquivo_local": "assets/imagens/imgEllipse8.png",
+      "bytes": 32259,
+      "sha256": "5a71f1cf91c48f8960bc76ee75d3266e7fffc096475737ba2ae48419d24fb7b6"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgEllipse9.png",
+      "caminho_original": "assets/imgEllipse9.png",
+      "arquivo_local": "assets/imagens/imgEllipse9.png",
+      "bytes": 34043,
+      "sha256": "8ef8f768bbef145ec4333879a6e7d6be37c80f17cd487b97a6d1ce8b6037878c"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgFundo.png",
+      "caminho_original": "assets/imgFundo.png",
+      "arquivo_local": "assets/imagens/imgFundo.png",
+      "bytes": 688864,
+      "sha256": "0b66b5eb98d3724cd59fa5bdfee112a8b6654430f0fff166529df5a3f0c1cb5f"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgFundoCard1.png",
+      "caminho_original": "assets/imgFundoCard1.png",
+      "arquivo_local": "assets/imagens/imgFundoCard1.png",
+      "bytes": 1159760,
+      "sha256": "99b581f594e7c090c4b97b95febc5f504344704f5415448da191686c7bc90f7c"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgFundoCard2.png",
+      "caminho_original": "assets/imgFundoCard2.png",
+      "arquivo_local": "assets/imagens/imgFundoCard2.png",
+      "bytes": 1315662,
+      "sha256": "433149bfbe462ad39d3e7dd19eccac601415e7a6c5c746571f880ec72dd134c6"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgFundoCard3.png",
+      "caminho_original": "assets/imgFundoCard3.png",
+      "arquivo_local": "assets/imagens/imgFundoCard3.png",
+      "bytes": 2817927,
+      "sha256": "ff6c69b8c8ef59d86e5117898d0fe76cd5d6fc4dd22c7aa8c87d6cb6aa6f3ca3"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgGroup.svg",
+      "caminho_original": "assets/imgGroup.svg",
+      "arquivo_local": "assets/imagens/imgGroup.svg",
+      "bytes": 331,
+      "sha256": "b777457b66915cde8f8d0005a9d69c7d635427795c911ec269c8eb652fcba7f6"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgGroup1.svg",
+      "caminho_original": "assets/imgGroup1.svg",
+      "arquivo_local": "assets/imagens/imgGroup1.svg",
+      "bytes": 304,
+      "sha256": "fbc31b1268195911444ed2e56be025035e6eb41765f237d18f162d84370f0273"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgPlates.svg",
+      "caminho_original": "assets/imgPlates.svg",
+      "arquivo_local": "assets/imagens/imgPlates.svg",
+      "bytes": 1646,
+      "sha256": "cf07437c8b7b3d5ea1e7d6b35af44deaa1be8aa9401d8e45bc7b7c911044269a"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgPlates1.svg",
+      "caminho_original": "assets/imgPlates1.svg",
+      "arquivo_local": "assets/imagens/imgPlates1.svg",
+      "bytes": 1646,
+      "sha256": "502e9a64f4c5a137cd137c5cc8931cca473175bde7a18738d49b1250b50bd679"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgPlay.svg",
+      "caminho_original": "assets/imgPlay.svg",
+      "arquivo_local": "assets/imagens/imgPlay.svg",
+      "bytes": 3006,
+      "sha256": "4e1b7a24c9f0ca10f51191dc3a0e795d1eb36d88ecdbff6177528532c0a0ecb8"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgPlay1.svg",
+      "caminho_original": "assets/imgPlay1.svg",
+      "arquivo_local": "assets/imagens/imgPlay1.svg",
+      "bytes": 2863,
+      "sha256": "e54c8b386691e184a9a557ec392e942ebc81b8060f6817964ba96adf19b52c3a"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgRectangle10.png",
+      "caminho_original": "assets/imgRectangle10.png",
+      "arquivo_local": "assets/imagens/imgRectangle10.png",
+      "bytes": 1133201,
+      "sha256": "838d706e35a5e6ee7e31fadb054938d5ac0e063d70102fb5bbe53cf2d8321060"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgRectangle12.png",
+      "caminho_original": "assets/imgRectangle12.png",
+      "arquivo_local": "assets/imagens/imgRectangle12.png",
+      "bytes": 32651,
+      "sha256": "63bc8d297b692810a8f74bbb5339f40a0a6b194e1519f343e0f8411ecd362941"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgRectangle14.png",
+      "caminho_original": "assets/imgRectangle14.png",
+      "arquivo_local": "assets/imagens/imgRectangle14.png",
+      "bytes": 27502,
+      "sha256": "825e19892b3b7c5c0ad07ca99b7829e4b38e0d63e4900909172845af8e8daed2"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgRectangle15.png",
+      "caminho_original": "assets/imgRectangle15.png",
+      "arquivo_local": "assets/imagens/imgRectangle15.png",
+      "bytes": 32943,
+      "sha256": "c0b24921e9eca7c19408f04d53210d74c72ce37d0ece011c6de6d5707fd0cb57"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgRectangle16.png",
+      "caminho_original": "assets/imgRectangle16.png",
+      "arquivo_local": "assets/imagens/imgRectangle16.png",
+      "bytes": 38567,
+      "sha256": "28bf67598d6925ec674b24f759be86abacb044fb79b3123b4d4c2726fb4e564b"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgVector.svg",
+      "caminho_original": "assets/imgVector.svg",
+      "arquivo_local": "assets/imagens/imgVector.svg",
+      "bytes": 833,
+      "sha256": "210b4eea07f67becdd20f69b5d8b5e66543a201e37c9d814b6ed1d64c3eeb0cd"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/imgVector2.svg",
+      "caminho_original": "assets/imgVector2.svg",
+      "arquivo_local": "assets/imagens/imgVector2.svg",
+      "bytes": 262,
+      "sha256": "abebcab369e090f241f2cf701fc795160bc011ea1d3cdeb6e45b83e6f21a2b2a"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/assets/hero.mp4",
+      "caminho_original": "assets/hero.mp4",
+      "arquivo_local": "assets/videos/hero.mp4",
+      "bytes": 17589573,
+      "sha256": "72c88005b7f967372aacd36d7a0cf565c92913127aca0f5845901bdeddb2d8da"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/styles.css",
+      "caminho_original": "styles.css",
+      "arquivo_local": "css/styles.css",
+      "copia_original": "original-publicado/styles.css",
+      "bytes_original": 29647,
+      "sha256_original": "357a56945b3b52e3985ffc45f814cb64bd9572f5384f4579ce5f56b4f334e24a",
+      "sha256_local": "2ee35ea684b27f3e93b6c89a772a193aced4431bd0102a09e8b9622e6fe0a1f9"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/",
+      "caminho_original": "index.html",
+      "arquivo_local": "index.html",
+      "copia_original": "original-publicado/index.html",
+      "bytes_original": 19787,
+      "sha256_original": "0f559ac18fc00b2f10b584592cb65a07b0111a5d01932acde670506348d665ed",
+      "sha256_local": "2341eff73081e60377aab9a372434d26ac9f9270d58d301f97e26aa5582f4ee6"
+    },
+    {
+      "url": "https://eixo-pilates-studio.supportivegnome1.chatgpt.site/app.js",
+      "caminho_original": "app.js",
+      "arquivo_local": "js/app.js",
+      "copia_original": "original-publicado/app.js",
+      "bytes_original": 6094,
+      "sha256_original": "2b4e2b0071a0379c090909a78c7f9841bca8ab2a653376fc74e105accbb255b0",
+      "sha256_local": "8f7c7e963d9eed66538845b4143e188444da13c3a3cc98ab13363be8de8994c5"
+    }
+  ]
+}
